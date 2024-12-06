@@ -31,7 +31,7 @@ Before running the application, ensure you have the following installed:
 Download the project files and navigate to the project directory:
 
 ```bash
-cd bookstore_project
+cd bookstore_managemnet_db
 ```
 ## 2. Create and Activate a Virtual Environment (Optional but Recommended)
 ```
@@ -57,11 +57,11 @@ Upon accessing the application, you'll see the home page. Use the navigation men
 
 2. Manage Book Records
 Add Books: Use the "Add Book" option to enter book details.
-Update Books: Click on a book and choose "Edit" to modify its information.
+Update Books: Click on a book and choose betweeen "Avalable" and "Rented" to modify its information.
 Delete Books: Select a book and click "Delete" to remove it.
 
 3. Search for Books
-Utilize the search bar to find books quickly by title, author, or genre.
+Utilize the search bar to find books quickly by title or author.
 
 4. Session Management
 User sessions ensure secure interactions. Log in or manage your session as prompted.
