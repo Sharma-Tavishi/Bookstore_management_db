@@ -51,6 +51,8 @@ python app.py
 ```
 The application will run on http://127.0.0.1:5000 by default.
 
+---
+
 ### Usage Guide
 1. Home Page
 Upon accessing the application, you'll see the home page. Use the navigation menu to explore the features.
@@ -66,6 +68,8 @@ Utilize the search bar to find books quickly by title or author.
 4. Session Management
 User sessions ensure secure interactions. Log in or manage your session as prompted.
 
+---
+
 ## Folder Structure
 - app.py: Main application file.
 - routes.py: Defines the backend logic and routes.
@@ -73,6 +77,7 @@ User sessions ensure secure interactions. Log in or manage your session as promp
 - static/: Holds CSS, JavaScript, and image files.
 - requirements.txt: Lists all Python dependencies.
 - flask_session/: Stores session data (if enabled).
+---
 # Group Members:
 Hemangi Mahant,
 Lakshita Mahna,
